@@ -1,0 +1,10 @@
+[
+    {
+        "id": 2,
+        "name": "Python Basics",
+        "description": "Learn Python fundamentals",
+        "target_date": "2025-12-31",
+        "status": "Not Started",
+        "created_at": "2026-10-05T16:34:20.057598+00:00"
+    }
+]
